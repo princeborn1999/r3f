@@ -10,3 +10,6 @@ https://docs.pmnd.rs/react-three-fiber/api/objects
 Canvas 設定尺寸大小為  外層div
 
 Fov 意思
+
+有usePlane useBox from 'react-three/cannon'
+才會有碰撞效果
